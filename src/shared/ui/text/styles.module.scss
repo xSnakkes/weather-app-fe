@@ -1,0 +1,31 @@
+.text {
+  &.main {
+    font-size: 1rem;
+    font-weight: 400;
+    color: var(--text-color);
+    line-height: 1.5;
+  }
+
+  &.bold {
+    font-weight: 700;
+  }
+
+  &.secondary {
+    font-size: 0.875rem;
+  }
+
+  &.input {
+    font-size: 0.875rem;
+    line-height: 1.3;
+  }
+
+  &.small {
+    font-size: 0.75rem;
+    line-height: 1.5;
+  }
+
+  &.button {
+    font-weight: 700;
+    line-height: 1;
+  }
+}

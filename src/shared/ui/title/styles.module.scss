@@ -1,0 +1,24 @@
+.title {
+  width: fit-content;
+}
+
+h1.title {
+  font-size: 3.375rem;
+  font-weight: 700;
+  color: var(--text-color);
+  line-height: 1.2;
+}
+
+h2.title {
+  font-size: 1.25rem;
+  font-weight: 700;
+  color: var(--text-color);
+  line-height: 1.4;
+}
+
+h3.title {
+  font-size: 1.125rem;
+  font-weight: 600;
+  color: var(--text-color);
+  line-height: 1.4;
+}
